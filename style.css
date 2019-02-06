@@ -1,0 +1,130 @@
+body {
+  background-color: rgb(230 230 230);
+  color: rgb(60 60 60);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size:15px;
+  line-height:25px;
+  text-align: center;
+}
+
+h1 {
+  color:rgb(100 100 100);
+  font-family:;
+  font-size:40px;
+  line-height:30px;
+}
+
+h2 {
+  color:rgb(120 120 120);
+  font-family:;
+  font-size:20px;
+  line-height:20px;
+}
+
+h3 {
+  color:rgb(120 120 120);
+  font-family:;
+  font-size:17px;
+  line-height:15px;
+
+}
+
+p {
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color:rgb(60 60 60);
+  padding: 25px;
+}
+
+a:hover {
+  color: red;
+}
+
+.div-card {
+  background: white;
+  padding:40px;
+  margin:50px;
+  border-radius:30px;
+  border:1px solid grey;
+  box-shadow:2px 2px 2px grey;
+
+}
+
+/*.container {
+  width: 500px;
+  margin: 0 auto;
+}*/
+
+.div-center {
+
+}
+
+.images {
+height:280px;
+width:210px;
+}
+
+.img {
+  margin:20px;
+
+
+}
+
+.pic {
+border-radius: 50%;
+height:300px;
+width:300px;
+}
+
+.center-text {
+  text-align: center;
+  width:1000px;
+  height:200px;
+}
+
+.center-text2 {
+width:700;
+height:300;
+margin:40px;
+
+}
+.footer {
+  background: rgb(0 0 0);
+  color: white;
+}
+
+#mail {
+  color:white;
+}
+
+.fun {
+  font-size:20px;
+  background-color: rgb(240 240 240);
+  font-weight:bold;
+  color:rgb(100 100 100);
+  padding:7px;
+  border-radius:20px;
+}
+
+
+#mail {
+  color:white;
+}
+
+#mail:hover {
+  color:red;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  font-size:20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
